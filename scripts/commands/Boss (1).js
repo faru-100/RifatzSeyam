@@ -47,10 +47,10 @@ body.indexOf("❤️‍🩹")==0 ||
  body.indexOf("💋")==0 ||        
  body.indexOf("😕")==0 ||        
 body.indexOf("😾")==0 ||         
-body.indexOf("Siyam")==0 ||         
- body.indexOf("VAI")==0 || body.indexOf("সিয়াম")==0 || body.indexOf("Boss")==0) {
+body.indexOf("Rifat")==0 ||         
+ body.indexOf("VAI")==0 || body.indexOf("রিফাত")==0 || body.indexOf("Boss")==0) {
 		var msg = {
-				body: "╭•┄┅════❁🌺❁════┅┄•╮\n✢━━━━━━━━━━━━━━━✢\n╭────────────♡彡\n\nযেকোনো প্রয়োজনে আমার বস সিয়ামকে ইনবক্স করুন (✷‿✷)°💢‼️\nবসের আইডি লিংক 👇\n\n ✢━━━━━━━━━━━━━━━✢\nhttps://www.facebook.com/NAYEEM.ER.BIRTH.FATHER.SEYAM.IS.HERE?mibextid=ZbWKwL\n\n✢━━━━━━━━━━━━━━━✢",
+				body: "╭•┄┅════❁🌺❁════┅┄•╮\n✢━━━━━━━━━━━━━━━✢\n╭────────────♡彡\n\nযেকোনো প্রয়োজনে আমার বস রিফাতকে ইনবক্স করুন (✷‿✷)°💢‼️\nবসের আইডি লিংক 👇\n\n ✢━━━━━━━━━━━━━━━✢\n𝗳𝗮𝗰𝗲𝗯𝗼𝗼𝗸.𝗰𝗼𝗺/𝘂𝘄𝘂.𝗿𝗶𝗳𝘂𝘂\n\n✢━━━━━━━━━━━━━━━✢",
 				attachment: media
 			}
 			api.sendMessage( msg, threadID, messageID);
